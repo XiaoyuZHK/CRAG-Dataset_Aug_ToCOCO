@@ -47,7 +47,8 @@ pip install imagecorruptions
 
 Randomly enhance the original image and annotations, this code including:Crop,Sharpen,Multiply,GaussianBlur,Affine
 
-![CRAG_train1](CRAG_train1_aug0.png)![CRAG_train1](CRAG_train1_aug0_annotation.png)
+![CRAG_train1_aug0](CRAG_train1_aug0.png)
+![CRAG_train1_aug0_annotation](CRAG_train1_aug0_annotation.png)
 
 ## (4)Next, convert the marked png to json format:
 
